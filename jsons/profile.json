@@ -1,0 +1,14 @@
+{
+    "@meta": {
+        "comments": {
+            "theme": "主题色值",
+            "lastLogin": "上次登录用户名"
+        }
+    },
+    "user": "$user",
+    "token": "",
+    "theme": 5678,
+    "cache": "$cacheConfig",
+    "lastLogin": "",
+    "locale": ""
+}
